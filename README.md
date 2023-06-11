@@ -13,4 +13,6 @@ __Note__: If the url of the dataset is not working, you can download in this [li
 
 ### Below is the summary of the tasks performed in this project:
 - __Task 1:__ Reading Data
-- __Task 2:__ _To be continued_
+- __Task 2:__ Geodataframe
+- __Task 3:__ Plotting Maps
+- __Task 4:__ _To be continued_
